@@ -1,0 +1,13 @@
+Problem 1
+- reviewed and merged @ctonne2's base implementation https://gitlab.cs.mcgill.ca/mnassif/303a6t23/-/issues/2#note_33680
+- implemented change to try-catch an error and reorganized the UI SHA: 679ec4daabc6960a2b8057c8c73bf50727854cb2
+
+Problem 2
+- reviewed @lchirc's base implementation https://gitlab.cs.mcgill.ca/mnassif/303a6t23/-/issues/3#note_33683
+- created possible problem 2 implementation based off of work done in the merged problem 1 implementation !3
+- implemented fix to remove empty lines that appear when using remove button !17
+- reviewed tests, pointed out remove button removes everything, and remove button only removes last item selected !19
+
+Problem 3
+- comment about problem with implementing and proposed possible alternative solutions https://gitlab.cs.mcgill.ca/mnassif/303a6t23/-/issues/4#note_33687
+- tested status message upon adding or removing an item !15
